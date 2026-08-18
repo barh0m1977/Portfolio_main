@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Local-only / not needed for the public site
+dashboard.html
+js/dashboard.js
+js/all.min.js
+webfonts/
+supabase-schema.sql
+SETUP.md
+docs/
